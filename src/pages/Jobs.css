@@ -1,0 +1,12 @@
+
+.hover-card {
+    transition: background-color 0.3s, transform 0.3s;
+    background-color: white;
+  }
+  
+  .hover-card:hover {
+    background-color: #5391f6; /* Light blue color on hover */
+    transform: translateY(-5px); /* Slight lift effect */
+    border-color: black;
+    border-radius: 0.5rem;
+  }
