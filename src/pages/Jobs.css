@@ -5,7 +5,7 @@
   }
   
   .hover-card:hover {
-    background-color: #5391f6; /* Light blue color on hover */
+    background-color: #b7d7e8; /* Light blue color on hover */
     transform: translateY(-5px); /* Slight lift effect */
     border-color: black;
     border-radius: 0.5rem;

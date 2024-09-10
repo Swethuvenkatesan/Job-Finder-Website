@@ -12,7 +12,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import './pages/Jobs.css';
 import './index.css';
-import Footer from './components/Footer'; 
+import Footer from './components/Footer';
+
+
+
+
+
 
 
 const App =()=> {

@@ -5,11 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Navbar = () => {
     return (
     
-      <nav className="navbar navbar-expand-lg navbar bg-primary ">
+      <nav className="navbar navbar-expand-lg " style={{ backgroundColor: '#b7d7e8' }}>
         <div className="container-fluid">
           <Link className="navbar-brand $black d-flex align-items-center" to="/">
           <img
-            src="https://cdn-icons-png.freepik.com/512/81/81755.png" // Path to your main logo image
+            src="https://cdn-icons-png.freepik.com/512/81/81755.png" 
             alt="Logo"
             style={{ width: '30px', marginRight: '10px' }}
           />
@@ -23,6 +23,9 @@ const Navbar = () => {
             aria-controls="navbarNav"
             aria-expanded="false"
             aria-label="Toggle navigation"
+            style={{
+              fontSize: '1rem' 
+            }}
           >
             <span className="navbar-toggler-icon"></span>
           </button>

@@ -2,7 +2,8 @@ import React from 'react';
 
 const Login = () => {
   return (
-    <div className="container my-4">
+    
+    <div className="container my-4 ">
       <h2>  <i className="fas fa-sign-in-alt me-2"></i> <b> Login </b></h2>
       <form className="mt-4">
         <div className="mb-3">
@@ -21,8 +22,11 @@ const Login = () => {
         <i class="bi bi-arrow-right-short me-1"></i> Login
         </button>
       </form>
+      
     </div>
+    
   );
+ 
 };
 
 export default Login;

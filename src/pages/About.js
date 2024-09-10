@@ -48,7 +48,7 @@ const About = () => {
             <img
               src="https://static.vecteezy.com/system/resources/previews/033/124/789/original/tiny-female-character-with-huge-glowing-light-bulb-in-hands-businesswoman-has-creative-idea-muse-business-vision-educational-insight-and-motivation-business-success-cartoon-illustration-vector.jpg" 
               alt="Success Image"
-              className="img-fluid rounded-circle ms-3 mt-5" 
+              className="img-fluid rounded-circle ms-2 mt-5" 
             />
           </div>
     </div>
