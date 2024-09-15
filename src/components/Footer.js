@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="footer-container  px-0">
         <div className="row mx-0">
           {/* Job Finder Section */}
-          <div className="col-md-4 mt-3">
+          <div className="col-md-4 mb-3">
             <h5>
-              <i className="bi bi-box-arrow-in-right me-1"></i>
+              <i className="bi bi-box-arrow-in-right me-2"></i>
               <b>Job Finder</b>
             </h5>
             <p>The Site Of Your Campaigns</p>
@@ -19,7 +19,7 @@ const Footer = () => {
           {/* Contact Us Section */}
           <div className="col-md-4 mb-3">
             <h5>
-              <i className="bi bi-box-arrow-in-right me-1"></i>
+              <i className="bi bi-box-arrow-in-right me-2"></i>
               <b>Contact Us</b>
             </h5>
             <ul className="list-unstyled">
@@ -42,7 +42,7 @@ const Footer = () => {
           {/* Resources and Support Section */}
           <div className="col-md-4 mb-3">
             <h5>
-              <i className="bi bi-box-arrow-in-right me-1"></i>
+              <i className="bi bi-box-arrow-in-right me-2"></i>
               <b>Resources and Support</b>
             </h5>
             <p>

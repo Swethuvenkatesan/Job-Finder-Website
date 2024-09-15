@@ -2,18 +2,18 @@ import React from 'react';
 
 const Register = () => {
   return (
-    <div className="container my-4">
+    <div className="container my-2">
 
         <h1 class="text-primary ms-5"> Best Jobs Search Platform 
-        <i class="bi bi-search ms-3"></i>
+        <i class="bi bi-search ms-3" style={{fontSize: '1.8rem' }} ></i>
         </h1>
 
-<div className="col mb-3 ">
+<div className="col mb-2 ">
             <img
               src=" https://png.pngtree.com/png-clipart/20220429/original/pngtree-man-search-for-hiring-job-online-from-laptop-human-resources-management-png-image_7579804.png" 
               alt="Success Image"
               className="img-fluid rounded ms-2 mt-3"
-              style={{ width: '45rem', height: '27rem' }} 
+              style={{ width: '45rem', height: '25rem' }} 
             />
           </div>  
 

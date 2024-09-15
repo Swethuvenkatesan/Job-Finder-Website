@@ -1,7 +1,10 @@
 import React, { useContext, useState } from 'react';
-import { JobContext } from '../context/JobContext';
+import  {JobContext}  from '../context/JobContext';
 import { Card, Button, Form, Row, Col } from 'react-bootstrap';
+import ImageSection from '../components/ImageSection';
 import './Jobs.css';
+
+
 const Jobs = () => {
   const { jobs, setFilters } = useContext(JobContext);
   const [search, setSearch] = useState({
@@ -24,8 +27,13 @@ const Jobs = () => {
   };
 
   return (
-    <div className="container my-4">
-      <h2 className="mb-4">
+  <div>
+    {/* Image Section Below Navbar */}
+    <ImageSection />
+     
+    
+    <div className="container my-1 ">
+      <h2 className="mb-4 mt-2">
         <i className="fa-solid fa-briefcase me-2"></i>
         <b> Job Listings </b> </h2>
       
@@ -125,7 +133,9 @@ const Jobs = () => {
         )}
       </Row>
     </div>
+
+  </div>
   );
 };
 
-export default Jobs;
+export default Jobs; 

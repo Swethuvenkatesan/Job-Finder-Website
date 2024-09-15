@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Companies = () => {
   return (
-    <div className="container my-4">
+    <div className="container my-1">
       <h2 className="mb-4">
        <i className="bi bi-person-workspace me-2"></i><b> Companies </b>
 

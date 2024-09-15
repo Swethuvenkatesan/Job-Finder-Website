@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './JobCard.css';
+
 
 const JobCard = ({ job }) => {
   const handleApply = () => {
