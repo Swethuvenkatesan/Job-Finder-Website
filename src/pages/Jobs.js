@@ -77,6 +77,9 @@ const Jobs = () => {
                 <option value="">Select Type</option>
                 <option value="Full-time">Full-time</option>
                 <option value="Part-time">Part-time</option>
+                <option value="Intern">Intern</option>
+                <option value="Remote">Remote</option>
+
               </Form.Control>
             </Form.Group>
           </Col>
@@ -93,6 +96,7 @@ const Jobs = () => {
                 <option value="Junior">Junior</option>
                 <option value="Mid">Mid</option>
                 <option value="Senior">Senior</option>
+              
               </Form.Control>
             </Form.Group>
           </Col>

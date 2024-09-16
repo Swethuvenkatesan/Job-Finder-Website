@@ -37,8 +37,10 @@ const SearchBar = () => {
         <div className="col-md-3">
           <select name="type" onChange={handleChange} className="form-select">
             <option value="">Select job type</option>
-            <option value="full-time">Full-time</option>
+            <option value="Full-time ">Full-time </option>
             <option value="part-time">Part-time</option>
+            <option value="Intern">Intern</option>
+            <option value="Remote">Remote</option>
           </select>
         </div>
         <div className="col-md-3">

@@ -11,7 +11,7 @@ const jobData = [
     type: 'Full-time',
     level: 'Mid',
     description:
-      'Develop and maintain web applications using React.js, JavaScript, and HTML and CSS.',
+        "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 2,
@@ -19,21 +19,21 @@ const jobData = [
     company: 'Innovate Ltd',
     location: 'Bangalore',
     experience: '0-1 years',
-    type: 'Part-time',
+    type: 'Remote',
     level: 'Junior',
     description:
-      'Working on server-side logic, APIs, and Database Management using Node.js and MySQL.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 3,
-    title: 'Full Stack Developer',
+    title: 'FullStack Developer',
     company: 'D Solutions',
     location: 'Hyderabad',
     experience: '3-5 years',
     type: 'Full-time',
     level: 'Senior',
     description:
-      'Create and manage both client and server-side software, working on front and back-end.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ const jobData = [
     type: 'Full-time',
     level: 'Mid',
     description:
-      'Develop and maintain web applications using React.js for  frontend with styles.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 5,
@@ -55,7 +55,7 @@ const jobData = [
     type: 'Part-time',
     level: 'Junior',
     description:
-      'Work on server-side logic for backend, database management, and APIs using php.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 6,
@@ -63,10 +63,10 @@ const jobData = [
     company: 'HD Ltd',
     location: 'chennai',
     experience: '0-1years',
-    type: 'Full-time & part-time',
+    type: 'part-time',
     level: 'junior',
     description:
-      'Create and manage server software, work on front and back-end.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
 
   {
@@ -78,7 +78,7 @@ const jobData = [
     type: 'Full-time',
     level: 'Mid',
     description:
-      'Develop and maintain applications using java/oops concept for fullstack development role',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 8,
@@ -89,18 +89,18 @@ const jobData = [
     type: 'Part-time',
     level: 'Junior',
     description:
-      'Work on server-side logic, database management, and APIs using Node.js and MySQL.',
+     "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 9,
-    title: 'Full Stack Developer',
+    title: 'FullStack Developer',
     company: 'SS ltd',
     location: 'noida',
     experience: '3-5 years',
     type: 'Remote',
     level: 'Senior',
     description:
-      'Create and manage both client and server-side software, work on full systems, full-Stack.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
 
   {
@@ -112,7 +112,7 @@ const jobData = [
     type: 'Full-time',
     level: 'Mid',
     description:
-      'Develop and maintain the Human Resource Role and also recuruitment the freshers.',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 11,
@@ -120,10 +120,10 @@ const jobData = [
     company: 'Happy Ltd',
     location: 'Bangalore',
     experience: 'Freshers',
-    type: 'Part-time & Intern',
+    type: ' Intern',
     level: 'Junior',
     description:
-      'Work on server-side logic role, and software design to develope the tarinee .',
+      "Join our dynamic team and take your career to the next level with exciting opportunities.",
   },
   {
     id: 12,
@@ -131,10 +131,10 @@ const jobData = [
     company: 'Tech ltd',
     location: 'salem',
     experience: '3-4 years',
-    type: 'Full-time & part-time',
+    type: 'Full-time',
     level: 'senior',
     description:
-      'customer support role ,attend and enquring calls and e-mail supporting.'
+      "Join our dynamic team and take your career to the next level with exciting opportunities."
   }
 
 

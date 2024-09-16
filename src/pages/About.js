@@ -78,14 +78,14 @@ const About = () => {
       {/* Social Media Links */}
       <section className="mt-5">
         <h2>Follow Us</h2>
-        <ul className="list-inline">
+        <ul className="list-inline ">
           <li className="list-inline-item">
-            <a href="https://www.facebook.com/jobfinder" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+            <a href="https://www.facebook.com/jobfinder" target="_blank" rel="noopener noreferrer" className="btn btn-primary me-3">
             <i class="bi bi-facebook"></i> Facebook
             </a>
           </li>
           <li className="list-inline-item">
-            <a href="https://www.twitter.com/jobfinder" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+            <a href="https://www.twitter.com/jobfinder" target="_blank" rel="noopener noreferrer" className="btn btn-primary me-3">
             <i class="bi bi-twitter"></i> Twitter
             </a>
           </li>

@@ -17,7 +17,7 @@ const Companies = () => {
       <div className="row d-flex align-items-center">
            {/* Card 1 */}
            <div className="col-md-4 mb-4">
-               <div className="card" style={{ width: '60%', padding: '0.4rem' }}>
+               <div className="card" style={{ width: '75%', padding: '0.4rem' }}>
                   <img
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBg9zkf0PWdFupdiDjLIkF1rWzE_oC76dNaQ&s" 
                   className="card-img-top"
@@ -40,7 +40,7 @@ const Companies = () => {
 
                 {/* Card 2 */}
               <div className="col-md-4 mb-4">
-                   <div className="card" style={{ width: '60%', padding: '0.5rem' }}>
+                   <div className="card" style={{ width: '75%', padding: '0.5rem' }}>
                       <img
                        src="https://cdn0.iconfinder.com/data/icons/business-381/500/business-work_11-512.png" 
                         className="card-img-top"
@@ -63,7 +63,7 @@ const Companies = () => {
 
                {/* Card 3 */}
          <div className="col-md-4 mb-4">
-          <div className="card" style={{ width: '60%', padding: '0.5rem' }}>
+          <div className="card" style={{ width: '75%', padding: '0.5rem' }}>
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ThSkUVamlgohHA1UmOebUjx7WHt5V5dqww&s"
               className="card-img-top"
@@ -87,7 +87,7 @@ const Companies = () => {
         
          {/* Card 4 */}
          <div className="col-md-4 mb-4">
-          <div className="card" style={{ width: '60%', padding: '0.5rem' }}>
+          <div className="card" style={{ width: '75%', padding: '0.5rem' }}>
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs9J__YL7Q4wWT2raIyMjAwhFZj66KTw3yg&s" 
               className="card-img-top"
@@ -111,7 +111,7 @@ const Companies = () => {
 
            {/* Card 5 */}
           <div className="col-md-4 mb-4">
-          <div className="card" style={{ width: '60%', padding: '0.5rem' }}>
+          <div className="card" style={{ width: '75%', padding: '0.5rem' }}>
             <img
               src="https://static.thenounproject.com/png/4737315-200.png"
               className="card-img-top"
@@ -134,7 +134,7 @@ const Companies = () => {
            
            {/* Card 6 */}
           <div className="col-md-4 mb-4">
-          <div className="card" style={{ width: '60%', padding: '0.5rem' }}>
+          <div className="card" style={{ width: '75%', padding: '0.5rem' }}>
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKepE-JQRviGikOmXtD4fB059-54QugrLEALVVcvVhLgLZ01UYivzSBPD0tXMrJfeCR98&usqp=CAU"
               className="card-img-top"
