@@ -28,9 +28,8 @@ const Jobs = () => {
 
   return (
   <div>
-    {/* Image Section Below Navbar */}
+  
     <ImageSection />
-     
     
     <div className="container my-1 ">
       <h2 className="mb-4 mt-2">

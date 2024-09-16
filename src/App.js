@@ -15,30 +15,6 @@ import './index.css';
 import Footer from './components/Footer';
 
 
-// ImageSection Component to Display Image
-/* const ImageSection = () => {
-  return (
-    <div className="Image-section  border-1 ">
-       <div className="card bg-dark text-white border-0 "></div>
-      <img
-       className="card-img img-fluid  mt-3 ms-4"
-        src="https://wallpaperbat.com/img/305496-digital-marketing-wallpaper-png-7-png-image.png"  
-        alt="Job Finder"
-        style={{
-          width: '97%',          // Makes the image take full width of its container
-          maxWidth: '100%',       // Limits the max width to 900px for better responsiveness         
-          objectFit: 'cover',  
-          height: '300px',     // Ensures the image is cropped correctly without distortion
-          
-        }} />
-    </div>
-  );
-}; */
-
-
-
-
-
 // Main App Component
 
 const App =()=> {
